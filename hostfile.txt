@@ -1,0 +1,4 @@
+10.148.33.26    # Member 1 (Master)
+10.148.33.70    # Member 2 (Worker)
+10.148.33.144   # Member 3 (Worker)
+10.148.33.15    # Member 4 (Worker)
